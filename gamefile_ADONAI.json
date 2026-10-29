@@ -1,0 +1,346 @@
+{
+  "name": "Adonai Card Game",
+  "customHelp": "ADONAI CARD GAME — estrutura inicial baseada nas Comprehensive Rules v1.2 e no arquivo de jogo do Faith Battle.\nMão inicial: 6 cartas. Mulligan parcial: até 3 vezes.\nZonas personalizadas: Características, Zona de Características, Essências, Identidade e Campo de Batalha.\nProtótipo de configuração: efeitos, custos especiais, seleção pré-jogo de 30–40 cartas, regras morais e combate ainda não estão totalmente automatizados.",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://SEU-USUARIO.github.io/SEU-REPOSITORIO/cards.json",
+    "cardBack": "https://example.com/REPLACE_WITH_OFFICIAL_CARD_BACK.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "name"
+    ],
+    "formats": [
+      {
+        "title": "Adonai — Protótipo Alfa",
+        "gameplay": "Adonai",
+        "customCategories": [
+          "Caracteristicas",
+          "Identidade"
+        ],
+        "deckRuleset": "Adonai40Singleton"
+      }
+    ],
+    "deckRulesets": {
+      "Adonai40Singleton": {
+        "general": {
+          "min": 40,
+          "max": 40,
+          "maxPerCard": 1
+        }
+      }
+    }
+  },
+  "gameplay": {
+    "Adonai": {
+      "mulligan": {
+        "info": "Você pode trocar qualquer número de cartas da mão inicial por novas cartas, até 3 vezes.",
+        "triggeredByButton": false,
+        "drawNewHand": false,
+        "startingHandSize": 6,
+        "mulliganCount": {
+          "min": 0,
+          "max": 3
+        },
+        "mulliganCycle": {
+          "info": "Escolha de 0 a 6 cartas; elas vão para o fundo, o baralho é embaralhado e você compra a mesma quantidade.",
+          "steps": [
+            "toBottom",
+            "shuffle",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 6
+          },
+          "keepCardsOrder": true
+        }
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "Controles manuais provisórios:\n- Conferir as regras de identidade no início.\n- A redução pré-jogo de 40 para 30–40 cartas ainda precisa de procedimento próprio.\n- Milagres e Pecados Duradouros/Vínculos podem exigir movimentação ou vinculação manual após a resolução.",
+      "tokens": [],
+      "countersStartingValues": [],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Caracteristicas",
+          "ZonaDeCaracteristicas",
+          "essencias",
+          "Identidade",
+          "CampoBatalha"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Identidade",
+                  "style": {
+                    "width": "35%"
+                  }
+                },
+                {
+                  "section": "CampoBatalha",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Caracteristicas",
+                  "style": false
+                },
+                {
+                  "section": "ZonaDeCaracteristicas",
+                  "style": {
+                    "width": "35%"
+                  }
+                },
+                {
+                  "section": "essencias",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Caracteristicas",
+          "Identidade"
+        ],
+        "autoPlayFromHand": {
+          "Caracteristicas": "ZonaDeCaracteristicas",
+          "Personagem": "Stack",
+          "Artefato": "Stack",
+          "Milagre": "Stack",
+          "Pecado": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Personagem": "CampoBatalha",
+          "Artefato": "CampoBatalha",
+          "Milagre": "Discard",
+          "Pecado": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": false,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "Mão",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Cemitério",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "displayedTitle": "Baralho Principal",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pilha",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Remove": {
+            "isDefaultSection": true,
+            "title": "Remove",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Exílio",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "RemoveHidden": {
+            "isDefaultSection": true,
+            "title": "RemoveHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Exílio Oculto",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Reserva",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Caracteristicas": {
+            "title": "Caracteristicas",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+            "drawPerTurn": 0,
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Características",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ZonaDeCaracteristicas": {
+            "title": "ZonaDeCaracteristicas",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Zona de Características",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "essencias": {
+            "title": "essencias",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Essências",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Identidade": {
+            "title": "Identidade",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Identidade",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "CampoBatalha": {
+            "title": "CampoBatalha",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Campo de Batalha",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
