@@ -1,0 +1,1476 @@
+{
+  "AV001": {
+    "id": "AV001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fé",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fé.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fé",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV002": {
+    "id": "AV002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dúvida",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Dúvida.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dúvida",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV003": {
+    "id": "AV003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esperança",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Esperança.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esperança",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV004": {
+    "id": "AV004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Desespero",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Desespero.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Desespero",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV005": {
+    "id": "AV005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caridade",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Caridade.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caridade",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV006": {
+    "id": "AV006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Egoísmo",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Egoísmo.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Egoísmo",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV007": {
+    "id": "AV007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prudência",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Prudência.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prudência",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV008": {
+    "id": "AV008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insensatez",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Insensatez.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insensatez",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV009": {
+    "id": "AV009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Justiça",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Justiça.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Justiça",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV010": {
+    "id": "AV010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iniquidade",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Iniquidade.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iniquidade",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV011": {
+    "id": "AV011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fortaleza",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fortaleza.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fortaleza",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV012": {
+    "id": "AV012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Covardia",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Covardia.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Covardia",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV013": {
+    "id": "AV013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temperança",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Temperança.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temperança",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AV014": {
+    "id": "AV014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Descontrole",
+        "type": "Virtude",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Descontrole.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Descontrole",
+    "type": "Virtude",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI001": {
+    "id": "AI001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golias, Voz do Desafio",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golias, Voz do Desafio",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI002": {
+    "id": "AI002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jessé, Pai de Davi",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jessé, Pai de Davi",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI003": {
+    "id": "AI003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abner, Chanceler Real",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abner, Chanceler Real",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI004": {
+    "id": "AI004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sem Espada e nem Lança",
+        "type": "Templo",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20004.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Sem Espada e nem Lança",
+    "type": "Templo",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI005": {
+    "id": "AI005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pelo Senhor dos Exércitos",
+        "type": "Templo",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20005.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Pelo Senhor dos Exércitos",
+    "type": "Templo",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI006": {
+    "id": "AI006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Sacrifício em Belém",
+        "type": "Templo",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20006.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "O Sacrifício em Belém",
+    "type": "Templo",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI007": {
+    "id": "AI007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vale de Elá, Campo do Desafio",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20007.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Vale de Elá, Campo do Desafio",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 14,
+    "tokens": []
+  },
+  "AI008": {
+    "id": "AI008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belém, Campos de Jessé",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20008.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Belém, Campos de Jessé",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 16,
+    "tokens": []
+  },
+  "AI009": {
+    "id": "AI009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Socó, o Acampamento Filisteu",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20009.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Socó, o Acampamento Filisteu",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 14,
+    "tokens": []
+  },
+  "AC001": {
+    "id": "AC001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Desafiante do Gigante",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Desafiante do Gigante",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 3,
+    "tokens": []
+  },
+  "AC002": {
+    "id": "AC002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golias, o Herói Filisteu",
+        "type": "Personagem",
+        "cost": 6,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golias, o Herói Filisteu",
+    "type": "Personagem",
+    "cost": 6,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 8,
+    "def": 8,
+    "tokens": []
+  },
+  "AC003": {
+    "id": "AC003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, o pastor de ovelhas",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20012.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, o pastor de ovelhas",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 3,
+    "tokens": []
+  },
+  "AC004": {
+    "id": "AC004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saul, o Rei amedrontado",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saul, o Rei amedrontado",
+    "type": "Personagem",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 5,
+    "def": 5,
+    "tokens": []
+  },
+  "AC005": {
+    "id": "AC005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samuel, Profeta em Belém",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Samuel, Profeta em Belém",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "AC006": {
+    "id": "AC006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jessé, Pai de Davi",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jessé, Pai de Davi",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 2,
+    "tokens": []
+  },
+  "AC007": {
+    "id": "AC007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Portador de Mantimentos",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20016.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Portador de Mantimentos",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC008": {
+    "id": "AC008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Harpista de Saul",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20017.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Harpista de Saul",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC009": {
+    "id": "AC009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eliabe, o primogênito bonito",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20018.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eliabe, o primogênito bonito",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 1,
+    "tokens": []
+  },
+  "AC010": {
+    "id": "AC010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abinadabe e Samá",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abinadabe e Samá",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 1,
+    "tokens": []
+  },
+  "AC011": {
+    "id": "AC011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exército Israelita Amedrontado",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20020.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exército Israelita Amedrontado",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 4,
+    "def": 4,
+    "tokens": []
+  },
+  "AC012": {
+    "id": "AC012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exército Filisteu Confiante",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exército Filisteu Confiante",
+    "type": "Personagem",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 4,
+    "def": 4,
+    "tokens": []
+  },
+  "AC013": {
+    "id": "AC013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Exército Israelita Confiante",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20022.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Exército Israelita Confiante",
+    "type": "Personagem",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 5,
+    "def": 2,
+    "tokens": []
+  },
+  "AC014": {
+    "id": "AC014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abner, Comandante de Saul",
+        "type": "Personagem",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20023.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abner, Comandante de Saul",
+    "type": "Personagem",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 4,
+    "tokens": []
+  },
+  "AC015": {
+    "id": "AC015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudeiro de Golias",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20024.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudeiro de Golias",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC016": {
+    "id": "AC016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Servo de Saul, o Olhar Atento",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20025.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Servo de Saul, o Olhar Atento",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC017": {
+    "id": "AC017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardador dos Mantimentos",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20026.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardador dos Mantimentos",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 2,
+    "tokens": []
+  },
+  "AC018": {
+    "id": "AC018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jumentinho do Jessé",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20027.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jumentinho do Jessé",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "AC019": {
+    "id": "AC019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Headshot",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20028.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Headshot",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC020": {
+    "id": "AC020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Batalha é do Senhor",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20029.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Batalha é do Senhor",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC021": {
+    "id": "AC021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recusa da Armadura",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20030.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recusa da Armadura",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC022": {
+    "id": "AC022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Livramento do Leão e do Urso",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20031.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Livramento do Leão e do Urso",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC023": {
+    "id": "AC023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Senhor Vê o Coração",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20032.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Senhor Vê o Coração",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC024": {
+    "id": "AC024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ainda falta o Menor",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20033.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ainda falta o Menor",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC025": {
+    "id": "AC025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espírito do Senhor sobre Davi",
+        "type": "Milagre",
+        "cost": 7,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20034.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espírito do Senhor sobre Davi",
+    "type": "Milagre",
+    "cost": 7,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC026": {
+    "id": "AC026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Recompensa do Rei",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20035.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Recompensa do Rei",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC027": {
+    "id": "AC027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Até que ele venha",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20036.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Até que ele venha",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC028": {
+    "id": "AC028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Entre a Corte e o Rebanho",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20037.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Entre a Corte e o Rebanho",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC029": {
+    "id": "AC029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cântico dos Milhares",
+        "type": "Milagre",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20038.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cântico dos Milhares",
+    "type": "Milagre",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC030": {
+    "id": "AC030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Funda e Cinco Pedras",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20039.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Funda e Cinco Pedras",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC031": {
+    "id": "AC031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espada de Golias",
+        "type": "Artefato",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20040.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espada de Golias",
+    "type": "Artefato",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC032": {
+    "id": "AC032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armadura de Saul",
+        "type": "Artefato",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20041.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armadura de Saul",
+    "type": "Artefato",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC033": {
+    "id": "AC033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chifre de Azeite",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20042.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chifre de Azeite",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC034": {
+    "id": "AC034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Harpa de Davi",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20043.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Harpa de Davi",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC035": {
+    "id": "AC035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Espólios do Gigante",
+        "type": "Artefato",
+        "cost": 5,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20044.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Espólios do Gigante",
+    "type": "Artefato",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC036": {
+    "id": "AC036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quarenta Dias de Desafio",
+        "type": "Pecado",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20045.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quarenta Dias de Desafio",
+    "type": "Pecado",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC037": {
+    "id": "AC037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Julgamento do Gigante",
+        "type": "Pecado",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20046.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Julgamento do Gigante",
+    "type": "Pecado",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC038": {
+    "id": "AC038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arrogância do Fortes",
+        "type": "Pecado",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20047.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arrogância do Fortes",
+    "type": "Pecado",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC039": {
+    "id": "AC039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Preço da Rejeição",
+        "type": "Pecado",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20048.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Preço da Rejeição",
+    "type": "Pecado",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC040": {
+    "id": "AC040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Falso Resplendor",
+        "type": "Pecado",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20049.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Falso Resplendor",
+    "type": "Pecado",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC041": {
+    "id": "AC041",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ficha_Ouro",
+        "type": "Artefato",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Ficha_Ouro.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ficha_Ouro",
+    "type": "Artefato",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC042": {
+    "id": "AC042",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ficha_Incenso",
+        "type": "Artefato",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Ficha_Essência.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ficha_Incenso",
+    "type": "Artefato",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC043": {
+    "id": "AC043",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ficha_Israelita",
+        "type": "Personagem",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Ficha_Israelita.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ficha_Israelita",
+    "type": "Personagem",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 2,
+    "tokens": []
+  },
+  "AC044": {
+    "id": "AC044",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ficha_Servo",
+        "type": "Personagem",
+        "cost": 0,
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Ficha_Servo.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ficha_Servo",
+    "type": "Personagem",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "DDG",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  }
+}
