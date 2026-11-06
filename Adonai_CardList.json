@@ -7,7 +7,7 @@
         "name": "Fé",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fé.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fé.png",
         "isHorizontal": false
       }
     },
@@ -29,7 +29,7 @@
         "name": "Dúvida",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Dúvida.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Dúvida.png",
         "isHorizontal": false
       }
     },
@@ -51,7 +51,7 @@
         "name": "Esperança",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Esperança.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Esperança.png",
         "isHorizontal": false
       }
     },
@@ -73,7 +73,7 @@
         "name": "Desespero",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Desespero.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Desespero.png",
         "isHorizontal": false
       }
     },
@@ -95,7 +95,7 @@
         "name": "Caridade",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Caridade.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Caridade.png",
         "isHorizontal": false
       }
     },
@@ -117,7 +117,7 @@
         "name": "Egoísmo",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Egoísmo.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Egoísmo.png",
         "isHorizontal": false
       }
     },
@@ -139,7 +139,7 @@
         "name": "Prudência",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Prudência.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Prudência.png",
         "isHorizontal": false
       }
     },
@@ -161,7 +161,7 @@
         "name": "Insensatez",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Insensatez.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Insensatez.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Justiça",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Justiça.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Justiça.png",
         "isHorizontal": false
       }
     },
@@ -205,7 +205,7 @@
         "name": "Iniquidade",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Iniquidade.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Iniquidade.png",
         "isHorizontal": false
       }
     },
@@ -227,7 +227,7 @@
         "name": "Fortaleza",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fortaleza.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Fortaleza.png",
         "isHorizontal": false
       }
     },
@@ -249,7 +249,7 @@
         "name": "Covardia",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Covardia.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Covardia.png",
         "isHorizontal": false
       }
     },
@@ -271,7 +271,7 @@
         "name": "Temperança",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Temperança.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Temperança.png",
         "isHorizontal": false
       }
     },
@@ -293,7 +293,7 @@
         "name": "Descontrole",
         "type": "Virtude",
         "cost": 0,
-        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Descontrole.jpg",
+        "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/Descontrole.png",
         "isHorizontal": false
       }
     },
