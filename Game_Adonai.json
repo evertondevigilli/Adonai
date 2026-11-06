@@ -31,9 +31,8 @@
                 ],
                 "deckRuleset": "Adonai40Singleton"
             }
-        ]
-    },
-    "deckRulesets": {
+        ],
+		"deckRulesets": {
         "Adonai40Singleton": {
             "general": {
                 "min": 40,
@@ -46,6 +45,7 @@
                 { "category": "Virtudes", "min": 14, "max": 14 }
             ]
         }
+    },
     },
     "gameplay": {
         "Standard": {
