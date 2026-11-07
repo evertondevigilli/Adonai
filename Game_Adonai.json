@@ -10,12 +10,13 @@
     "customHelp": "",
     "cardRotation": "90",
     "cards": {
-        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json",
+        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=3",
         "cardBack": "https://github.com/evertondevigilli/Adonai/blob/main/images/adonai-back.jpg",
         "extraCardBacks": {}
     },
     "deckBuilding": {
         "mainFilters": [
+            "category",
             "type",
             "cost",
             "name"
@@ -25,9 +26,10 @@
                 "title": "Standard",
                 "gameplay": "Standard",
                 "customCategories": [
+                    "Principal",
                     "Virtudes",
-                    "Reserva",
-                    "Identidade"
+                    "Identidade",
+                    "Reserva"
                 ],
                 "deckRuleset": "Adonai40Singleton"
             }
