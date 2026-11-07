@@ -37,8 +37,8 @@
         "deckRulesets": {
             "Adonai40Singleton": {
                 "general": {
-                    "min": 40,
-                    "max": 40,
+                    "min": 47,
+                    "max": 57,
                     "maxPerCard": 1
                 },
                 "categories": [
