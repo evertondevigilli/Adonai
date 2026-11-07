@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Fé",
-        "type": "Virtudess",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Fé.png",
         "isHorizontal": false
       }
     },
     "name": "Fé",
-    "type": "Virtudess",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
