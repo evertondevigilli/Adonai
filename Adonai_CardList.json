@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Fé",
-        "type": "Virtude",
+        "type": "Virtudess",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Fé.png",
         "isHorizontal": false
       }
     },
     "name": "Fé",
-    "type": "Virtude",
+    "type": "Virtudess",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -27,14 +27,14 @@
     "face": {
       "front": {
         "name": "Dúvida",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Dúvida.png",
         "isHorizontal": false
       }
     },
     "name": "Dúvida",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -49,14 +49,14 @@
     "face": {
       "front": {
         "name": "Esperança",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Esperança.png",
         "isHorizontal": false
       }
     },
     "name": "Esperança",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -71,14 +71,14 @@
     "face": {
       "front": {
         "name": "Desespero",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Desespero.png",
         "isHorizontal": false
       }
     },
     "name": "Desespero",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -93,14 +93,14 @@
     "face": {
       "front": {
         "name": "Caridade",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Caridade.png",
         "isHorizontal": false
       }
     },
     "name": "Caridade",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -115,14 +115,14 @@
     "face": {
       "front": {
         "name": "Egoísmo",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Egoísmo.png",
         "isHorizontal": false
       }
     },
     "name": "Egoísmo",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -137,14 +137,14 @@
     "face": {
       "front": {
         "name": "Prudência",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Prudência.png",
         "isHorizontal": false
       }
     },
     "name": "Prudência",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -159,14 +159,14 @@
     "face": {
       "front": {
         "name": "Insensatez",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Insensatez.png",
         "isHorizontal": false
       }
     },
     "name": "Insensatez",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -181,14 +181,14 @@
     "face": {
       "front": {
         "name": "Justiça",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Justiça.png",
         "isHorizontal": false
       }
     },
     "name": "Justiça",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -203,14 +203,14 @@
     "face": {
       "front": {
         "name": "Iniquidade",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Iniquidade.png",
         "isHorizontal": false
       }
     },
     "name": "Iniquidade",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -225,14 +225,14 @@
     "face": {
       "front": {
         "name": "Fortaleza",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Fortaleza.png",
         "isHorizontal": false
       }
     },
     "name": "Fortaleza",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -247,14 +247,14 @@
     "face": {
       "front": {
         "name": "Covardia",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Covardia.png",
         "isHorizontal": false
       }
     },
     "name": "Covardia",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -269,14 +269,14 @@
     "face": {
       "front": {
         "name": "Temperança",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Temperança.png",
         "isHorizontal": false
       }
     },
     "name": "Temperança",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
@@ -291,14 +291,14 @@
     "face": {
       "front": {
         "name": "Descontrole",
-        "type": "Virtude",
+        "type": "Virtudes",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Descontrole.png",
         "isHorizontal": false
       }
     },
     "name": "Descontrole",
-    "type": "Virtude",
+    "type": "Virtudes",
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
