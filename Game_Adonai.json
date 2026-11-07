@@ -10,12 +10,13 @@
     "customHelp": "",
     "cardRotation": "90",
     "cards": {
-        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=7",
+        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=9",
         "cardBack": "https://github.com/evertondevigilli/Adonai/blob/main/images/adonai-back.jpg",
         "extraCardBacks": {}
     },
     "deckBuilding": {
         "mainFilters": [
+            "category",
             "type",
             "cost",
             "name"
@@ -25,9 +26,10 @@
                 "title": "Standard",
                 "gameplay": "Standard",
                 "customCategories": [
-                    "Virtude",
-                    "Reserva",
-                    "Identidade"
+                    "Principal",
+                    "Virtudes",
+                    "Identidade",
+                    "Reserva"
                 ],
                 "deckRuleset": "Adonai40Singleton"
             }
@@ -42,7 +44,7 @@
                 "categories": [
                     { "category": "Reserva", "min": 0, "max": 10 },
                     { "category": "Identidade", "min": 3, "max": 3 },
-                    { "category": "Virtude", "min": 14, "max": 14 }
+                    { "category": "Virtudes", "min": 14, "max": 14 }
                 ]
             }
         }
@@ -110,7 +112,7 @@
                 "customSections": [
                     "Identidade",
                     "CampoBatalha",
-                    "Virtude",
+                    "Virtudes",
                     "ZonaVirtudes",
                     "Essencia"
                 ],
@@ -143,7 +145,7 @@
                             "style": false,
                             "content": [
                                 {
-                                    "section": "Virtude",
+                                    "section": "Virtudes",
                                     "style": {
                                         "width": "10%",
                                         "border-right": "1px solid rgba(255,255,255,0.2)"
@@ -169,7 +171,7 @@
                 },
                 "categoriesAlreadyOnBoard": [
                     "Identidade",
-                    "Virtude"
+                    "Virtudes"
                 ],
                 "autoPlayFromHand": {
                     "Personagem": "Stack",
@@ -319,8 +321,8 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "Virtude": {
-                        "title": "Virtude",
+                    "Virtudes": {
+                        "title": "Virtudes",
                         "isHidden": "yes",
                         "height": "15",
                         "alignment": "DECK",
