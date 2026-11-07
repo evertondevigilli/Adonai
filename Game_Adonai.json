@@ -45,6 +45,7 @@
                 { "category": "Virtudes", "min": 14, "max": 14 }
             ]
         }
+	}
     },
     "gameplay": {
         "Standard": {
