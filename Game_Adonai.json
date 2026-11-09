@@ -16,7 +16,6 @@
     },
     "deckBuilding": {
         "mainFilters": [
-            "category",
             "type",
             "cost",
             "name"
@@ -26,8 +25,10 @@
                 "title": "Standard",
                 "gameplay": "Standard",
                 "customCategories": [
+                    "Campeão",
+                    "Templo",
+                    "Território",
                     "Virtudes",
-                    "Identidade",
                     "Reserva"
                 ],
                 "deckRuleset": "Adonai40Singleton"
@@ -36,14 +37,16 @@
         "deckRulesets": {
             "Adonai40Singleton": {
                 "general": {
-                    "min": 47,
-                    "max": 57,
+                    "min": 40,
+                    "max": 40,
                     "maxPerCard": 1
                 },
                 "categories": [
-                    { "category": "Reserva", "min": 0, "max": 10 },
-                    { "category": "Identidade", "min": 3, "max": 3 },
-                    { "category": "Virtudes", "min": 14, "max": 14 }
+                    { "category": "Campeão", "min": 1, "max": 1 },
+                    { "category": "Templo", "min": 1, "max": 1 },
+                    { "category": "Território", "min": 1, "max": 1 },
+                    { "category": "Virtudes", "min": 14, "max": 14 },
+                    { "category": "Reserva", "min": 0, "max": 10 }
                 ]
             }
         }
@@ -109,58 +112,111 @@
             ],
             "sections": {
                 "customSections": [
-                    "Identidade",
+                    "Campeão",
+                    "Templo",
+                    "Território",
                     "CampoBatalha",
                     "Virtudes",
                     "ZonaVirtudes",
-                    "Essencia"
+                    "Essencia",
+                    "Reserva"
                 ],
                 "layout": {
-                    "direction": "column",
+                    "direction": "row",
                     "isSymetricalForOpponents": false,
                     "content": [
                         {
-                            "direction": "row",
-                            "style": false,
+                            "direction": "column",
+                            "style": {
+                                "width": "80%"
+                            },
                             "content": [
                                 {
-                                    "section": "Identidade",
-                                    "style": {
-                                        "width": "20%",
-                                        "border-right": "1px solid rgba(255,255,255,0.2)"
-                                    }
+                                    "direction": "row",
+                                    "style": false,
+                                    "content": [
+                                        {
+                                            "direction": "column",
+                                            "style": {
+                                                "width": "22%",
+                                                "border-right": "1px solid rgba(255,255,255,0.2)"
+                                            },
+                                            "content": [
+                                                {
+                                                    "section": "Campeão",
+                                                    "style": {
+                                                        "height": "40%",
+                                                        "border-bottom": "1px solid rgba(255,255,255,0.2)"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "Templo",
+                                                    "style": {
+                                                        "height": "30%",
+                                                        "border-bottom": "1px solid rgba(255,255,255,0.2)"
+                                                    }
+                                                },
+                                                {
+                                                    "section": "Território",
+                                                    "style": {
+                                                        "height": "30%"
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "section": "CampoBatalha",
+                                            "style": {
+                                                "width": "78%"
+                                            }
+                                        }
+                                    ],
+                                    "isSymetricalForOpponents": false
                                 },
                                 {
-                                    "section": "CampoBatalha",
-                                    "style": {
-                                        "width": "80%"
-                                    }
+                                    "direction": "row",
+                                    "style": false,
+                                    "content": [
+                                        {
+                                            "section": "Virtudes",
+                                            "style": {
+                                                "width": "12%",
+                                                "border-right": "1px solid rgba(255,255,255,0.2)",
+                                                "border-top": "1px solid rgba(255,255,255,0.2)"
+                                            }
+                                        },
+                                        {
+                                            "section": "ZonaVirtudes",
+                                            "style": {
+                                                "width": "44%",
+                                                "border-right": "1px solid rgba(255,255,255,0.2)",
+                                                "border-top": "1px solid rgba(255,255,255,0.2)"
+                                            }
+                                        },
+                                        {
+                                            "section": "Essencia",
+                                            "style": {
+                                                "width": "44%",
+                                                "border-top": "1px solid rgba(255,255,255,0.2)"
+                                            }
+                                        }
+                                    ],
+                                    "isSymetricalForOpponents": false
                                 }
                             ],
                             "isSymetricalForOpponents": false
                         },
                         {
-                            "direction": "row",
-                            "style": false,
+                            "direction": "column",
+                            "style": {
+                                "width": "20%"
+                            },
                             "content": [
                                 {
-                                    "section": "Virtudes",
+                                    "section": "Reserva",
                                     "style": {
-                                        "width": "10%",
-                                        "border-right": "1px solid rgba(255,255,255,0.2)"
-                                    }
-                                },
-                                {
-                                    "section": "ZonaVirtudes",
-                                    "style": {
-                                        "width": "45%",
-                                        "border-right": "1px solid rgba(255,255,255,0.2)"
-                                    }
-                                },
-                                {
-                                    "section": "Essencia",
-                                    "style": {
-                                        "width": "45%"
+                                        "height": "50%",
+                                        "border-left": "1px solid rgba(255,255,255,0.2)"
                                     }
                                 }
                             ],
@@ -169,7 +225,9 @@
                     ]
                 },
                 "categoriesAlreadyOnBoard": [
-                    "Identidade",
+                    "Campeão",
+                    "Templo",
+                    "Território",
                     "Virtudes"
                 ],
                 "autoPlayFromHand": {
@@ -288,18 +346,50 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "Identidade": {
-                        "title": "Identidade",
+                    "Campeão": {
+                        "title": "Campeão",
                         "isHidden": "no",
-                        "height": "18",
+                        "height": "12",
                         "alignment": "CENTER",
                         "opponentAlignment": false,
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
-                        "displayedTitle": "Identidade",
+                        "displayedTitle": "Campeão",
                         "noQuickActions": false,
                         "enterTapped": false,
                         "enterSpun": false,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Templo": {
+                        "title": "Templo",
+                        "isHidden": "no",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Templo",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": true,
+                        "isGroupForbidden": false,
+                        "keepTappedNewTurn": false,
+                        "showHiddenCardInHistory": false
+                    },
+                    "Território": {
+                        "title": "Território",
+                        "isHidden": "no",
+                        "height": "12",
+                        "alignment": "CENTER",
+                        "opponentAlignment": false,
+                        "noAutoPayTo": true,
+                        "isHorizontalAllowed": true,
+                        "displayedTitle": "Território",
+                        "noQuickActions": false,
+                        "enterTapped": false,
+                        "enterSpun": true,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
@@ -368,7 +458,7 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-					"Reserva": {
+                    "Reserva": {
                         "title": "Reserva",
                         "isHidden": "no",
                         "height": "DEFAULT",
