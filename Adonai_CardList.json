@@ -382,7 +382,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20004.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Sem Espada e nem Lança",
@@ -404,7 +404,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20005.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Pelo Senhor dos Exércitos",
@@ -426,7 +426,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20006.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "O Sacrifício em Belém",
@@ -448,7 +448,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20007.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Vale de Elá, Campo do Desafio",
@@ -470,7 +470,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20008.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Belém, Campos de Jessé",
@@ -492,7 +492,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20009.webp",
-        "isHorizontal": true
+        "isHorizontal": false
       }
     },
     "name": "Socó, o Acampamento Filisteu",
