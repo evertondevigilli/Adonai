@@ -28,7 +28,7 @@
                     "Campeão",
                     "Templo",
                     "Território",
-                    "Virtude",
+                    "Virtudes",
                     "Reserva"
                 ],
                 "deckRuleset": "Adonai40Singleton"
@@ -45,7 +45,7 @@
                     { "category": "Campeão", "min": 1, "max": 1 },
                     { "category": "Templo", "min": 1, "max": 1 },
                     { "category": "Território", "min": 1, "max": 1 },
-                    { "category": "Virtude", "min": 14, "max": 14 },
+                    { "category": "Virtudes", "min": 14, "max": 14 },
                     { "category": "Reserva", "min": 0, "max": 10 }
                 ]
             }
@@ -116,7 +116,7 @@
                     "Templo",
                     "Território",
                     "CampoBatalha",
-                    "Virtude",
+                    "Virtudes",
                     "ZonaVirtudes",
                     "Essencia",
                     "Reserva"
@@ -164,7 +164,7 @@
                             "style": false,
                             "content": [
                                 {
-                                    "section": "Virtude",
+                                    "section": "Virtudes",
                                     "style": {
                                         "width": "12%",
                                         "border-right": "1px solid rgba(255,255,255,0.2)",
@@ -203,7 +203,7 @@
                     "Campeão",
                     "Templo",
                     "Território",
-                    "Virtude"
+                    "Virtudes"
                 ],
                 "autoPlayFromHand": {
                     "Personagem": "Stack",
@@ -385,8 +385,8 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "Virtude": {
-                        "title": "Virtude",
+                    "Virtudes": {
+                        "title": "Virtudes",
                         "isHidden": "yes",
                         "height": "15",
                         "alignment": "DECK",
