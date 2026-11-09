@@ -10,7 +10,7 @@
     "customHelp": "",
     "cardRotation": "90",
     "cards": {
-        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=11",
+        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=20",
         "cardBack": "https://github.com/evertondevigilli/Adonai/blob/main/images/adonai-back.jpg",
         "extraCardBacks": {}
     },
