@@ -381,7 +381,7 @@
         "name": "Sem Espada e nem Lança",
         "type": "Templo",
         "cost": 1,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Sem_Espada_Nem_Lança.png",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Sem_Espada_nem_Lança.png",
         "isHorizontal": false
       }
     },
