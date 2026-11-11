@@ -1,7 +1,7 @@
 {
     "name": "Adonai Card Game",
     "menuBackgroundImage": "https://adonaicardgame.com.br/assets/imgs/DDG%20-%20007.webp",
-    "defaultResources": {
+    "defaultRessources": {
         "backgrounds": [
             "https://adonaicardgame.com.br/assets/imgs/DDG%20-%20007.webp"
         ],
@@ -10,7 +10,7 @@
     "customHelp": "",
     "cardRotation": "90",
     "cards": {
-        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=30",
+        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=31",
         "cardBack": "https://github.com/evertondevigilli/Adonai/blob/main/images/adonai-back.jpg",
         "extraCardBacks": {}
     },
