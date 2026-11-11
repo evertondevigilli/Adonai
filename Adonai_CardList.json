@@ -382,7 +382,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Sem_Espada_nem_Lança.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Sem Espada e nem Lança",
@@ -390,7 +390,7 @@
     "cost": 1,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 0,
     "tokens": []
