@@ -1,9 +1,9 @@
 {
     "name": "Adonai Card Game",
-    "menuBackgroundImage": "https://github.com/evertondevigilli/Adonai/blob/main/images/fundo.jpg",
+    "menuBackgroundImage": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/fundo.jpg",
     "defaultRessources": {
         "backgrounds": [
-            "https://github.com/evertondevigilli/Adonai/blob/main/images/fundo.jpg"
+            "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/fundo.jpg"
         ],
          "decksUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_StarterDecks.json?v=1"
     },
