@@ -381,7 +381,7 @@
         "name": "Sem Espada e nem Lança",
         "type": "Templo",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20004.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/Sem_Espada_Nem_Lança.png",
         "isHorizontal": false
       }
     },
