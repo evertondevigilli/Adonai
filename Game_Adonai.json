@@ -330,7 +330,7 @@
                         "noAutoPayTo": true,
                         "isHorizontalAllowed": true,
                         "displayedTitle": "Campeão",
-                        "noQuickActions": false,
+                        "noQuickActions": true,
                         "enterTapped": false,
                         "enterSpun": false,
                         "isGroupForbidden": false,
