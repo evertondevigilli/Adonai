@@ -1,11 +1,11 @@
 {
     "name": "Adonai Card Game",
     "menuBackgroundImage": "https://adonaicardgame.com.br/assets/imgs/DDG%20-%20007.webp",
-    "defaultRessources": {
+    "defaultResources": {
         "backgrounds": [
             "https://adonaicardgame.com.br/assets/imgs/DDG%20-%20007.webp"
         ],
-        "decksUrl": ""
+         "decksUrl": "https://jjcodes78.github.io/FaithBattle/FaithBattle_StarterDecks.json"
     },
     "customHelp": "",
     "cardRotation": "90",
@@ -348,7 +348,7 @@
                         "displayedTitle": "Templo",
                         "noQuickActions": false,
                         "enterTapped": false,
-                        "enterSpun": false,
+                        "enterSpun": true,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
@@ -364,7 +364,7 @@
                         "displayedTitle": "Território",
                         "noQuickActions": false,
                         "enterTapped": false,
-                        "enterSpun": false,
+                        "enterSpun": true,
                         "isGroupForbidden": false,
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
