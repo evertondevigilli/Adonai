@@ -96,12 +96,12 @@
                 {
                     "id": "dano",
                     "name": "Marcador de Dano",
-                    "image": "https://github.com/evertondevigilli/Adonai/blob/main/images/dano.jpg"
+                    "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_dano.png"
                 },
                 {
                     "id": "escudo",
                     "name": "Marcador de Escudo",
-                    "image": ""
+                    "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_escudo.png"
                 },
                 {
                     "id": "construcao",
