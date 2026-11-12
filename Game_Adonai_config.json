@@ -1,11 +1,11 @@
 {
-    "name": "Adonai - Card Game",
-    "menuBackgroundImage": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/playmat_tcg.png?v=40",
+    "name": "Adonai - Card Game Final",
+    "menuBackgroundImage": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/playmat_tcg.png",
     "defaultRessources": {
         "backgrounds": [
-            "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/playmat_tcg.png?v=40"
+            "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/playmat_tcg.png"
         ],
-         "decksUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_StarterDecks.json?v=40"
+         "decksUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_StarterDecks.json"
     },
     "cardRotation": "90",
     "cards": {
