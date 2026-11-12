@@ -165,10 +165,6 @@
                                 {
                                     "section": "Virtudes",
                                     "style": {
-										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_zona_de_caracteristica.png')",
-                                        "background-size": "contain",
-                                        "background-repeat": "no-repeat",
-                                        "background-position": "center",
                                         "width": "10%",
                                         "border-right": "1px solid rgba(255,255,255,0.2)",
                                         "border-top": "1px solid rgba(255,255,255,0.2)"
@@ -177,6 +173,10 @@
                                 {
                                     "section": "ZonaVirtudes",
                                     "style": {
+										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_zona_de_caracteristica.png')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "center",
                                         "width": "40%",
                                         "border-right": "1px solid rgba(255,255,255,0.2)",
                                         "border-top": "1px solid rgba(255,255,255,0.2)"
