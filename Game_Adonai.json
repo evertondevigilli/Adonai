@@ -5,13 +5,13 @@
         "backgrounds": [
             "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/fundo.jpg"
         ],
-         "decksUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_StarterDecks.json?v=1"
+         "decksUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_StarterDecks.json"
     },
     "customHelp": "",
     "cardRotation": "90",
     "cards": {
-        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json?v=31",
-        "cardBack": "https://github.com/evertondevigilli/Adonai/blob/main/images/adonai-back.jpg",
+        "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json",
+        "cardBack": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/adonai-back.jpg",
         "extraCardBacks": {}
     },
     "deckBuilding": {
