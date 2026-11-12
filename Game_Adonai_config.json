@@ -152,6 +152,10 @@
                                 {
                                     "section": "CampoBatalha",
                                     "style": {
+										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_campo_de_batalha.png')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "left",
                                         "width": "66%"
                                     }
                                 }
@@ -185,6 +189,10 @@
                                 {
                                     "section": "Essencia",
                                     "style": {
+										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_zona_de_essencia.png')",
+                                        "background-size": "contain",
+                                        "background-repeat": "no-repeat",
+                                        "background-position": "left",
                                         "width": "40%",
                                         "border-right": "1px solid rgba(255,255,255,0.2)",
                                         "border-top": "1px solid rgba(255,255,255,0.2)"
