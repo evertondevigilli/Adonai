@@ -265,5 +265,110 @@
 		  }
 		]
 	  }
+	},
+	{
+	  "title": "TEC - O Rei de Israel",
+	  "id": "e9d3c5f8-2c45-a19f-9a11-223344556677",
+	  "cardCount": 57,
+	  "createdAt": "2026-11-12T23:27:00.000Z",
+	  "lastModifiedAt": "2026-11-12T23:27:00.000Z",
+	  "game": "Adonai Card Game",
+	  "format": [
+		"Standard"
+	  ],
+	  "deckList": {
+		"categoriesOrder": [
+		  "Campeão",
+		  "Templo",
+		  "Território",
+		  "Virtudes",
+		  "Artefato",
+		  "Milagre",
+		  "Pecado",
+		  "Personagem"
+		],
+		"Campeão": [
+		  {
+			"count": 1,
+			"id": "AI010"
+		  }
+		],
+		"Templo": [
+		  {
+			"count": 1,
+			"id": "AI013"
+		  }
+		],
+		"Território": [
+		  {
+			"count": 1,
+			"id": "AI016"
+		  }
+		],
+		"Virtudes": [
+		  { "count": 1, "id": "AV001" },
+		  { "count": 1, "id": "AV002" },
+		  { "count": 1, "id": "AV003" },
+		  { "count": 1, "id": "AV004" },
+		  { "count": 1, "id": "AV005" },
+		  { "count": 1, "id": "AV006" },
+		  { "count": 1, "id": "AV007" },
+		  { "count": 1, "id": "AV008" },
+		  { "count": 1, "id": "AV009" },
+		  { "count": 1, "id": "AV010" },
+		  { "count": 1, "id": "AV011" },
+		  { "count": 1, "id": "AV012" },
+		  { "count": 1, "id": "AV013" },
+		  { "count": 1, "id": "AV014" }
+		],
+		"Artefato": [
+		  { "count": 1, "id": "AC075" },
+		  { "count": 1, "id": "AC076" },
+		  { "count": 1, "id": "AC077" },
+		  { "count": 1, "id": "AC078" },
+		  { "count": 1, "id": "AC079" }
+		],
+		"Milagre": [
+		  { "count": 1, "id": "AC067" },
+		  { "count": 1, "id": "AC068" },
+		  { "count": 1, "id": "AC069" },
+		  { "count": 1, "id": "AC070" },
+		  { "count": 1, "id": "AC071" },
+		  { "count": 1, "id": "AC072" },
+		  { "count": 1, "id": "AC073" },
+		  { "count": 1, "id": "AC074" }
+		],
+		"Pecado": [
+		  { "count": 1, "id": "AC080" },
+		  { "count": 1, "id": "AC081" },
+		  { "count": 1, "id": "AC082" },
+		  { "count": 1, "id": "AC083" },
+		  { "count": 1, "id": "AC084" }
+		],
+		"Personagem": [
+		  { "count": 1, "id": "AC045" },
+		  { "count": 1, "id": "AC046" },
+		  { "count": 1, "id": "AC047" },
+		  { "count": 1, "id": "AC048" },
+		  { "count": 1, "id": "AC049" },
+		  { "count": 1, "id": "AC050" },
+		  { "count": 1, "id": "AC051" },
+		  { "count": 1, "id": "AC052" },
+		  { "count": 1, "id": "AC053" },
+		  { "count": 1, "id": "AC054" },
+		  { "count": 1, "id": "AC055" },
+		  { "count": 1, "id": "AC056" },
+		  { "count": 1, "id": "AC057" },
+		  { "count": 1, "id": "AC058" },
+		  { "count": 1, "id": "AC059" },
+		  { "count": 1, "id": "AC060" },
+		  { "count": 1, "id": "AC061" },
+		  { "count": 1, "id": "AC062" },
+		  { "count": 1, "id": "AC063" },
+		  { "count": 1, "id": "AC064" },
+		  { "count": 1, "id": "AC065" },
+		  { "count": 1, "id": "AC066" }
+		]
+		}
 	}
 ]
