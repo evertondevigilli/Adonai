@@ -1,0 +1,72 @@
+// Campeão
+1 Davi, Segundo o Coração de Deus
+
+// Templo
+1 Altar do Coração Contrito
+
+// Território
+1 Jerusalém, Cidade de Davi
+
+// Virtudes
+1 Fé
+1 Dúvida
+1 Esperança
+1 Desespero
+1 Caridade
+1 Egoísmo
+1 Prudência
+1 Insensatez
+1 Justiça
+1 Iniquidade
+1 Fortaleza
+1 Covardia
+1 Temperança
+1 Descontrole
+
+// Artefato
+1 Palácio de Cedro
+1 Arca da Aliança
+1 Éfode de Linho
+1 Escudos de Ouro de Hadadezer
+1 Cordel da Medida
+
+// Milagre
+1 Promessa à Casa de Davi
+1 Tú És este Homem
+1 Sussurro em Sião
+1 Consulta ao Senhor
+1 A Ruptura de Baal-Perazim
+1 Som das Amoreiras
+1 Bondade por Amor a Jônatas
+1 Lamento pelos Valentes
+
+// Pecado
+1 Sentença Velada
+1 Mulheres e Concubinas de Davi
+1 Vingança no Portão de Hebrom
+1 Humilhação dos Embaixadores
+1 Combate no tanque de Gibeão
+
+// Personagem
+1 Davi, Rei de Todo Israel
+1 Davi, Rei de Judá
+1 Bate-Seba, Filha de Eliã
+1 Urias, Guerreiro Leal
+1 Natã, o Profeta do Rei
+1 Joabe, o General da Vanguarda
+1 Anciões do Pacto de Hebrom
+1 Abigail, Voz da Prudência
+1 Obede-Edom, Anfitrião da Arca
+1 Uzá, Mão Impulsiva
+1 Aiô, Diante da Arca
+1 Mical, Olhar da Janela
+1 Mefibosete, à Mesa do Rei
+1 Ziba, Servo da Casa de Saul
+1 Abner, Pacto de Hebrom
+1 Is-Bosete, Rei Sustentado
+1 Recabe e Baaná, os Regicidas
+1 Asael, o Veloz como a Gazela
+1 Paltiel, que seguiu chorando
+1 Abisai, General do Flanco
+1 Benaia, Capitão dos Quereteus
+1 Hirão, Rei de Tiro

@@ -1,0 +1,58 @@
+1 Abner, Chanceler Real
+1 Pelo Senhor dos Exércitos
+1 Vale de Elá, Campo do Desafio
+1 Fé
+1 Dúvida
+1 Esperança
+1 Desespero
+1 Insensatez
+1 Prudência
+1 Egoísmo
+1 Caridade
+1 Justiça
+1 Iniquidade
+1 Fortaleza
+1 Covardia
+1 Temperança
+1 Descontrole
+1 Harpa de Davi
+1 Funda e Cinco Pedras
+1 Espada de Golias
+1 Armadura de Saul
+1 Chifre de Azeite
+1 Espólios do Gigante
+1 Cântico dos Milhares
+1 Entre a Corte e o Rebanho
+1 Até que ele venha
+1 O Senhor Vê o Coração
+1 Ainda falta o Menor
+1 Espírito do Senhor sobre Davi
+1 A Recompensa do Rei
+1 Livramento do Leão e do Urso
+1 Recusa da Armadura
+1 A Batalha é do Senhor
+1 Headshot
+1 Quarenta Dias de Desafio
+1 Julgamento do Gigante
+1 Arrogância do Fortes
+1 O Preço da Rejeição
+1 Falso Resplendor
+1 Jumentinho do Jessé
+1 Guardador dos Mantimentos
+1 Exército Israelita Confiante
+1 Abner, Comandante de Saul
+1 Escudeiro de Golias
+1 Servo de Saul, o Olhar Atento
+1 Exército Filisteu Confiante
+1 Exército Israelita Amedrontado
+1 Abinadabe e Samá
+1 Eliabe, o primogênito bonito
+1 Saul, o Rei amedrontado
+1 Samuel, Profeta em Belém
+1 Davi, Portador de Mantimentos
+1 Davi, Harpista de Saul
+1 Davi, o pastor de ovelhas
+1 Golias, o Herói Filisteu
+1 Davi, Desafiante do Gigante
+1 Jessé, Pai de Davi
+Sideboard:
