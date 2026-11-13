@@ -505,6 +505,204 @@
     "def": 14,
     "tokens": []
   },
+  "AI010": {
+    "id": "AI010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Segundo o Coração de Deus",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Segundo o Coração de Deus",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI011": {
+    "id": "AI011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Obede-Edom, o Guardião da Arca",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20002.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Obede-Edom, o Guardião da Arca",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI012": {
+    "id": "AI012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abigail, a Grande Conciliadora",
+        "type": "Campeão",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abigail, a Grande Conciliadora",
+    "type": "Campeão",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI013": {
+    "id": "AI013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar do Coração Contrito",
+        "type": "Templo",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20004.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Altar do Coração Contrito",
+    "type": "Templo",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI014": {
+    "id": "AI014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altar dos Seis Passos",
+        "type": "Templo",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20005.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Altar dos Seis Passos",
+    "type": "Templo",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI015": {
+    "id": "AI015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morada da Plenitude",
+        "type": "Templo",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20006.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Morada da Plenitude",
+    "type": "Templo",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AI016": {
+    "id": "AI016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jerusalém, Cidade de Davi",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20007.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Jerusalém, Cidade de Davi",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 12,
+    "tokens": []
+  },
+  "AI017": {
+    "id": "AI017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hebrom, Trono da Unção",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20008.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Hebrom, Trono da Unção",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 12,
+    "tokens": []
+  },
+  "AI018": {
+    "id": "AI018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rabá, a Frente Distante",
+        "type": "Território",
+        "cost": 0,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20009.webp",
+        "isHorizontal": true
+      }
+    },
+    "name": "Rabá, a Frente Distante",
+    "type": "Território",
+    "cost": 0,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": true,
+    "atk": 0,
+    "def": 14,
+    "tokens": []
+  },
   "AC001": {
     "id": "AC001",
     "isToken": false,
@@ -1471,6 +1669,886 @@
     "isHorizontal": false,
     "atk": 0,
     "def": 1,
+    "tokens": []
+  },
+  "AC045": {
+    "id": "AC045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Rei de Todo Israel",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Rei de Todo Israel",
+    "type": "Personagem",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 4,
+    "def": 4,
+    "tokens": []
+  },
+  "AC046": {
+    "id": "AC046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Davi, Rei de Judá",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Davi, Rei de Judá",
+    "type": "Personagem",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 5,
+    "def": 5,
+    "tokens": []
+  },
+  "AC047": {
+    "id": "AC047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bate-Seba, Filha de Eliã",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20012.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bate-Seba, Filha de Eliã",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "AC048": {
+    "id": "AC048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Urias, Guerreiro Leal",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urias, Guerreiro Leal",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 3,
+    "tokens": []
+  },
+  "AC049": {
+    "id": "AC049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Natã, o Profeta do Rei",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Natã, o Profeta do Rei",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC050": {
+    "id": "AC050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Joabe, o General da Vanguarda",
+        "type": "Personagem",
+        "cost": 5,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Joabe, o General da Vanguarda",
+    "type": "Personagem",
+    "cost": 5,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 4,
+    "def": 4,
+    "tokens": []
+  },
+  "AC051": {
+    "id": "AC051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anciões do Pacto de Hebrom",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20016.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anciões do Pacto de Hebrom",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 2,
+    "tokens": []
+  },
+  "AC052": {
+    "id": "AC052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abigail, Voz da Prudência",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20017.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abigail, Voz da Prudência",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 3,
+    "tokens": []
+  },
+  "AC053": {
+    "id": "AC053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Obede-Edom, Anfitrião da Arca",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20018.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Obede-Edom, Anfitrião da Arca",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 3,
+    "tokens": []
+  },
+  "AC054": {
+    "id": "AC054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uzá, Mão Impulsiva",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uzá, Mão Impulsiva",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "AC055": {
+    "id": "AC055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aiô, Diante da Arca",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20020.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aiô, Diante da Arca",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 2,
+    "tokens": []
+  },
+  "AC056": {
+    "id": "AC056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mical, Olhar da Janela",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mical, Olhar da Janela",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 1,
+    "tokens": []
+  },
+  "AC057": {
+    "id": "AC057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mefibosete, à Mesa do Rei",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20022.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mefibosete, à Mesa do Rei",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 1,
+    "tokens": []
+  },
+  "AC058": {
+    "id": "AC058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ziba, Servo da Casa de Saul",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20023.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ziba, Servo da Casa de Saul",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 2,
+    "tokens": []
+  },
+  "AC059": {
+    "id": "AC059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abner, Pacto de Hebrom",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20024.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abner, Pacto de Hebrom",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 2,
+    "tokens": []
+  },
+  "AC060": {
+    "id": "AC060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Is-Bosete, Rei Sustentado",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20025.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Is-Bosete, Rei Sustentado",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 2,
+    "tokens": []
+  },
+  "AC061": {
+    "id": "AC061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recabe e Baaná, os Regicidas",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20026.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recabe e Baaná, os Regicidas",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 1,
+    "tokens": []
+  },
+  "AC062": {
+    "id": "AC062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Asael, o Veloz como a Gazela",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20027.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Asael, o Veloz como a Gazela",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 2,
+    "def": 1,
+    "tokens": []
+  },
+  "AC063": {
+    "id": "AC063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paltiel, que seguiu chorando",
+        "type": "Personagem",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20028.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paltiel, que seguiu chorando",
+    "type": "Personagem",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 3,
+    "tokens": []
+  },
+  "AC064": {
+    "id": "AC064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abisai, General do Flanco",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20029.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abisai, General do Flanco",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 3,
+    "tokens": []
+  },
+  "AC065": {
+    "id": "AC065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Benaia, Capitão dos Quereteus",
+        "type": "Personagem",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20030.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benaia, Capitão dos Quereteus",
+    "type": "Personagem",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 3,
+    "def": 3,
+    "tokens": []
+  },
+  "AC066": {
+    "id": "AC066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hirão, Rei de Tiro",
+        "type": "Personagem",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20031.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hirão, Rei de Tiro",
+    "type": "Personagem",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 1,
+    "def": 3,
+    "tokens": []
+  },
+  "AC067": {
+    "id": "AC067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Promessa à Casa de Davi",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20032.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Promessa à Casa de Davi",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC068": {
+    "id": "AC068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tú És este Homem",
+        "type": "Milagre",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20033.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tú És este Homem",
+    "type": "Milagre",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC069": {
+    "id": "AC069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sussurro em Sião",
+        "type": "Milagre",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20034.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sussurro em Sião",
+    "type": "Milagre",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC070": {
+    "id": "AC070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Consulta ao Senhor",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20035.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consulta ao Senhor",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC071": {
+    "id": "AC071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Ruptura de Baal-Perazim",
+        "type": "Milagre",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20036.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Ruptura de Baal-Perazim",
+    "type": "Milagre",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC072": {
+    "id": "AC072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Som das Amoreiras",
+        "type": "Milagre",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20037.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Som das Amoreiras",
+    "type": "Milagre",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC073": {
+    "id": "AC073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bondade por Amor a Jônatas",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20038.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bondade por Amor a Jônatas",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC074": {
+    "id": "AC074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lamento pelos Valentes",
+        "type": "Milagre",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20039.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lamento pelos Valentes",
+    "type": "Milagre",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC075": {
+    "id": "AC075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Palácio de Cedro",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20040.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Palácio de Cedro",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC076": {
+    "id": "AC076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arca da Aliança",
+        "type": "Artefato",
+        "cost": 7,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20041.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arca da Aliança",
+    "type": "Artefato",
+    "cost": 7,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC077": {
+    "id": "AC077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Éfode de Linho",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20042.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Éfode de Linho",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC078": {
+    "id": "AC078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudos de Ouro de Hadadezer",
+        "type": "Artefato",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20043.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudos de Ouro de Hadadezer",
+    "type": "Artefato",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC079": {
+    "id": "AC079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cordel da Medida",
+        "type": "Artefato",
+        "cost": 3,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20044.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cordel da Medida",
+    "type": "Artefato",
+    "cost": 3,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC080": {
+    "id": "AC080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sentença Velada",
+        "type": "Pecado",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20045.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sentença Velada",
+    "type": "Pecado",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC081": {
+    "id": "AC081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mulheres e Concubinas de Davi",
+        "type": "Pecado",
+        "cost": 1,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20046.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mulheres e Concubinas de Davi",
+    "type": "Pecado",
+    "cost": 1,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC082": {
+    "id": "AC082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vingança no Portão de Hebrom",
+        "type": "Pecado",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20047.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vingança no Portão de Hebrom",
+    "type": "Pecado",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC083": {
+    "id": "AC083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Humilhação dos Embaixadores",
+        "type": "Pecado",
+        "cost": 4,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20048.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Humilhação dos Embaixadores",
+    "type": "Pecado",
+    "cost": 4,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
+    "tokens": []
+  },
+  "AC084": {
+    "id": "AC084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Combate no tanque de Gibeão",
+        "type": "Pecado",
+        "cost": 2,
+        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20049.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Combate no tanque de Gibeão",
+    "type": "Pecado",
+    "cost": 2,
+    "rarity": "Comum",
+    "set": "TEC",
+    "isHorizontal": false,
+    "atk": 0,
+    "def": 0,
     "tokens": []
   }
 }
