@@ -404,7 +404,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/pelo_senhor_dos_exercitos.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Pelo Senhor dos Exércitos",
@@ -412,7 +412,7 @@
     "cost": 1,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 0,
     "tokens": []
@@ -426,7 +426,7 @@
         "type": "Templo",
         "cost": 1,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/o_sacrificio_em_belem.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "O Sacrifício em Belém",
@@ -434,7 +434,7 @@
     "cost": 1,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 0,
     "tokens": []
@@ -448,7 +448,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/vale_de_ela.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Vale de Elá, Campo do Desafio",
@@ -456,7 +456,7 @@
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 14,
     "tokens": []
@@ -470,7 +470,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/belem_campos_de_jesse.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Belém, Campos de Jessé",
@@ -478,7 +478,7 @@
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 16,
     "tokens": []
@@ -492,7 +492,7 @@
         "type": "Território",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/soco_o_acampamento_filisteu.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Socó, o Acampamento Filisteu",
@@ -500,7 +500,7 @@
     "cost": 0,
     "rarity": "Comum",
     "set": "DDG",
-    "isHorizontal": false,
+    "isHorizontal": true,
     "atk": 0,
     "def": 14,
     "tokens": []
