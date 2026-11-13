@@ -1,9 +1,9 @@
 {
   "title": "DDG",
-  "id": "e2855d29-90eb-4da2-aaa4-cbd091cca5c6",
-  "cardCount": 56,
-  "createdAt": "2026-11-09T13:36:41.772Z",
-  "lastModifiedAt": "2026-11-09T13:39:04.216Z",
+  "id": "cfb2a63c-708b-43b5-8fd7-e95ff30672a3",
+  "cardCount": 57,
+  "createdAt": "2026-11-12T12:12:36.618Z",
+  "lastModifiedAt": "2026-11-13T01:35:28.202Z",
   "game": "Adonai Card Game",
   "format": [
     "Standard"
@@ -28,13 +28,13 @@
     "Templo": [
       {
         "count": 1,
-        "id": "AI004"
+        "id": "AI005"
       }
     ],
     "Território": [
       {
         "count": 1,
-        "id": "AI009"
+        "id": "AI007"
       }
     ],
     "Virtudes": [
@@ -257,6 +257,10 @@
       {
         "count": 1,
         "id": "AC001"
+      },
+      {
+        "count": 1,
+        "id": "AC006"
       }
     ]
   }
