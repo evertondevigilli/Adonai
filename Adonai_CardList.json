@@ -513,7 +513,7 @@
         "name": "Davi, Segundo o Coração de Deus",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20001.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/01%20-%20DAVI,%20SEGUNDO%20O%20CORAÇÃO%20DE%20DEUS.png",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Obede-Edom, o Guardião da Arca",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20002.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/02%20-%20OBEDE-EDOM,%20O%20GUARDIÃO%20DA%20ARCA.png",
         "isHorizontal": false
       }
     },
@@ -557,7 +557,7 @@
         "name": "Abigail, a Grande Conciliadora",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20003.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/03%20-%20ABIGAIL,%20A%20GRANDE%20CONCILIADORA.png",
         "isHorizontal": false
       }
     },
@@ -579,7 +579,7 @@
         "name": "Altar do Coração Contrito",
         "type": "Templo",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20004.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/04%20-%20Altar%20do%20Coração%20Contrito.png",
         "isHorizontal": true
       }
     },
@@ -601,7 +601,7 @@
         "name": "Altar dos Seis Passos",
         "type": "Templo",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20005.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/05%20-%20Altar%20dos%20Seis%20Passos.png",
         "isHorizontal": true
       }
     },
@@ -623,7 +623,7 @@
         "name": "Morada da Plenitude",
         "type": "Templo",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20006.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/06%20-%20Morada%20da%20Plenitude.png",
         "isHorizontal": true
       }
     },
@@ -645,7 +645,7 @@
         "name": "Jerusalém, Cidade de Davi",
         "type": "Território",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20007.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/07%20-%20Jerusalém,%20Cidade%20de%20Davi.png",
         "isHorizontal": true
       }
     },
@@ -667,7 +667,7 @@
         "name": "Hebrom, Trono da Unção",
         "type": "Território",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20008.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/08%20-%20Hebrom,%20Trono%20da%20Unção.png",
         "isHorizontal": true
       }
     },
@@ -689,7 +689,7 @@
         "name": "Rabá, a Frente Distante",
         "type": "Território",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20009.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/09%20-%20Rabá,%20a%20Frente%20Distante.png",
         "isHorizontal": true
       }
     },
