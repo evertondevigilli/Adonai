@@ -11,7 +11,9 @@
     "cards": {
         "dataUrl": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/Adonai_CardList.json",
         "cardBack": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/adonai-back.jpg",
-        "extraCardBacks": {}
+        "extraCardBacks": {
+			"Virtudes": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/verso_carta_caracteristicas.png"
+		}
     },
     "deckBuilding": {
         "mainFilters": [
@@ -95,37 +97,37 @@
             "draggableTokens": [
                 {
                     "id": "dano",
-                    "name": "Marcador de Dano",
+                    "name": "Marcador de dano",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_dano.png"
                 },
                 {
                     "id": "escudo",
-                    "name": "Marcador de Escudo",
+                    "name": "Marcador de escudo",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_escudo.png"
                 },
                 {
                     "id": "virtude",
-                    "name": "Marcador de Virtude",
+                    "name": "Marcador de virtude",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_virtude.png"
                 },
                 {
                     "id": "ataque_positivo",
-                    "name": "Marcador de atk positivo",
+                    "name": "Marcador de ataque positivo",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_ataque_positivo.png"
                 },
                 {
                     "id": "ataque_negativo",
-                    "name": "Marcador de atk negativo",
+                    "name": "Marcador de ataque negativo",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_ataque_negativo.png"
                 },
                 {
                     "id": "resistencia_positivo",
-                    "name": "Marcador de Escudo",
+                    "name": "Marcador de resistência positivo",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_resistencia_positivo.png"
                 },
                 {
                     "id": "resistencia_negativo",
-                    "name": "Marcador de Escudo",
+                    "name": "Marcador de resistência negativo",
                     "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/markers/marcador_resistencia_negativo.png"
                 }
             ],
