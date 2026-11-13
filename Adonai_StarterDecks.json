@@ -1,267 +1,269 @@
-{
-  "title": "DDG",
-  "id": "cfb2a63c-708b-43b5-8fd7-e95ff30672a3",
-  "cardCount": 57,
-  "createdAt": "2026-11-12T12:12:36.618Z",
-  "lastModifiedAt": "2026-11-13T01:35:28.202Z",
-  "game": "Adonai Card Game",
-  "format": [
-    "Standard"
-  ],
-  "deckList": {
-    "categoriesOrder": [
-      "Campeão",
-      "Templo",
-      "Território",
-      "Virtudes",
-      "Artefato",
-      "Milagre",
-      "Pecado",
-      "Personagem"
-    ],
-    "Campeão": [
-      {
-        "count": 1,
-        "id": "AI003"
-      }
-    ],
-    "Templo": [
-      {
-        "count": 1,
-        "id": "AI005"
-      }
-    ],
-    "Território": [
-      {
-        "count": 1,
-        "id": "AI007"
-      }
-    ],
-    "Virtudes": [
-      {
-        "count": 1,
-        "id": "AV001"
-      },
-      {
-        "count": 1,
-        "id": "AV002"
-      },
-      {
-        "count": 1,
-        "id": "AV003"
-      },
-      {
-        "count": 1,
-        "id": "AV004"
-      },
-      {
-        "count": 1,
-        "id": "AV008"
-      },
-      {
-        "count": 1,
-        "id": "AV007"
-      },
-      {
-        "count": 1,
-        "id": "AV006"
-      },
-      {
-        "count": 1,
-        "id": "AV005"
-      },
-      {
-        "count": 1,
-        "id": "AV009"
-      },
-      {
-        "count": 1,
-        "id": "AV010"
-      },
-      {
-        "count": 1,
-        "id": "AV011"
-      },
-      {
-        "count": 1,
-        "id": "AV012"
-      },
-      {
-        "count": 1,
-        "id": "AV013"
-      },
-      {
-        "count": 1,
-        "id": "AV014"
-      }
-    ],
-    "Artefato": [
-      {
-        "count": 1,
-        "id": "AC034"
-      },
-      {
-        "count": 1,
-        "id": "AC030"
-      },
-      {
-        "count": 1,
-        "id": "AC031"
-      },
-      {
-        "count": 1,
-        "id": "AC032"
-      },
-      {
-        "count": 1,
-        "id": "AC033"
-      },
-      {
-        "count": 1,
-        "id": "AC035"
-      }
-    ],
-    "Milagre": [
-      {
-        "count": 1,
-        "id": "AC029"
-      },
-      {
-        "count": 1,
-        "id": "AC028"
-      },
-      {
-        "count": 1,
-        "id": "AC027"
-      },
-      {
-        "count": 1,
-        "id": "AC023"
-      },
-      {
-        "count": 1,
-        "id": "AC024"
-      },
-      {
-        "count": 1,
-        "id": "AC025"
-      },
-      {
-        "count": 1,
-        "id": "AC026"
-      },
-      {
-        "count": 1,
-        "id": "AC022"
-      },
-      {
-        "count": 1,
-        "id": "AC021"
-      },
-      {
-        "count": 1,
-        "id": "AC020"
-      },
-      {
-        "count": 1,
-        "id": "AC019"
-      }
-    ],
-    "Pecado": [
-      {
-        "count": 1,
-        "id": "AC036"
-      },
-      {
-        "count": 1,
-        "id": "AC037"
-      },
-      {
-        "count": 1,
-        "id": "AC038"
-      },
-      {
-        "count": 1,
-        "id": "AC039"
-      },
-      {
-        "count": 1,
-        "id": "AC040"
-      }
-    ],
-    "Personagem": [
-      {
-        "count": 1,
-        "id": "AC018"
-      },
-      {
-        "count": 1,
-        "id": "AC017"
-      },
-      {
-        "count": 1,
-        "id": "AC013"
-      },
-      {
-        "count": 1,
-        "id": "AC014"
-      },
-      {
-        "count": 1,
-        "id": "AC015"
-      },
-      {
-        "count": 1,
-        "id": "AC016"
-      },
-      {
-        "count": 1,
-        "id": "AC012"
-      },
-      {
-        "count": 1,
-        "id": "AC011"
-      },
-      {
-        "count": 1,
-        "id": "AC010"
-      },
-      {
-        "count": 1,
-        "id": "AC009"
-      },
-      {
-        "count": 1,
-        "id": "AC004"
-      },
-      {
-        "count": 1,
-        "id": "AC005"
-      },
-      {
-        "count": 1,
-        "id": "AC007"
-      },
-      {
-        "count": 1,
-        "id": "AC008"
-      },
-      {
-        "count": 1,
-        "id": "AC003"
-      },
-      {
-        "count": 1,
-        "id": "AC002"
-      },
-      {
-        "count": 1,
-        "id": "AC001"
-      },
-      {
-        "count": 1,
-        "id": "AC006"
-      }
-    ]
-  }
-}
+[
+	{
+	  "title": "DDG",
+	  "id": "cfb2a63c-708b-43b5-8fd7-e95ff30672a3",
+	  "cardCount": 57,
+	  "createdAt": "2026-11-12T12:12:36.618Z",
+	  "lastModifiedAt": "2026-11-13T01:35:28.202Z",
+	  "game": "Adonai Card Game",
+	  "format": [
+		"Standard"
+	  ],
+	  "deckList": {
+		"categoriesOrder": [
+		  "Campeão",
+		  "Templo",
+		  "Território",
+		  "Virtudes",
+		  "Artefato",
+		  "Milagre",
+		  "Pecado",
+		  "Personagem"
+		],
+		"Campeão": [
+		  {
+			"count": 1,
+			"id": "AI003"
+		  }
+		],
+		"Templo": [
+		  {
+			"count": 1,
+			"id": "AI005"
+		  }
+		],
+		"Território": [
+		  {
+			"count": 1,
+			"id": "AI007"
+		  }
+		],
+		"Virtudes": [
+		  {
+			"count": 1,
+			"id": "AV001"
+		  },
+		  {
+			"count": 1,
+			"id": "AV002"
+		  },
+		  {
+			"count": 1,
+			"id": "AV003"
+		  },
+		  {
+			"count": 1,
+			"id": "AV004"
+		  },
+		  {
+			"count": 1,
+			"id": "AV008"
+		  },
+		  {
+			"count": 1,
+			"id": "AV007"
+		  },
+		  {
+			"count": 1,
+			"id": "AV006"
+		  },
+		  {
+			"count": 1,
+			"id": "AV005"
+		  },
+		  {
+			"count": 1,
+			"id": "AV009"
+		  },
+		  {
+			"count": 1,
+			"id": "AV010"
+		  },
+		  {
+			"count": 1,
+			"id": "AV011"
+		  },
+		  {
+			"count": 1,
+			"id": "AV012"
+		  },
+		  {
+			"count": 1,
+			"id": "AV013"
+		  },
+		  {
+			"count": 1,
+			"id": "AV014"
+		  }
+		],
+		"Artefato": [
+		  {
+			"count": 1,
+			"id": "AC034"
+		  },
+		  {
+			"count": 1,
+			"id": "AC030"
+		  },
+		  {
+			"count": 1,
+			"id": "AC031"
+		  },
+		  {
+			"count": 1,
+			"id": "AC032"
+		  },
+		  {
+			"count": 1,
+			"id": "AC033"
+		  },
+		  {
+			"count": 1,
+			"id": "AC035"
+		  }
+		],
+		"Milagre": [
+		  {
+			"count": 1,
+			"id": "AC029"
+		  },
+		  {
+			"count": 1,
+			"id": "AC028"
+		  },
+		  {
+			"count": 1,
+			"id": "AC027"
+		  },
+		  {
+			"count": 1,
+			"id": "AC023"
+		  },
+		  {
+			"count": 1,
+			"id": "AC024"
+		  },
+		  {
+			"count": 1,
+			"id": "AC025"
+		  },
+		  {
+			"count": 1,
+			"id": "AC026"
+		  },
+		  {
+			"count": 1,
+			"id": "AC022"
+		  },
+		  {
+			"count": 1,
+			"id": "AC021"
+		  },
+		  {
+			"count": 1,
+			"id": "AC020"
+		  },
+		  {
+			"count": 1,
+			"id": "AC019"
+		  }
+		],
+		"Pecado": [
+		  {
+			"count": 1,
+			"id": "AC036"
+		  },
+		  {
+			"count": 1,
+			"id": "AC037"
+		  },
+		  {
+			"count": 1,
+			"id": "AC038"
+		  },
+		  {
+			"count": 1,
+			"id": "AC039"
+		  },
+		  {
+			"count": 1,
+			"id": "AC040"
+		  }
+		],
+		"Personagem": [
+		  {
+			"count": 1,
+			"id": "AC018"
+		  },
+		  {
+			"count": 1,
+			"id": "AC017"
+		  },
+		  {
+			"count": 1,
+			"id": "AC013"
+		  },
+		  {
+			"count": 1,
+			"id": "AC014"
+		  },
+		  {
+			"count": 1,
+			"id": "AC015"
+		  },
+		  {
+			"count": 1,
+			"id": "AC016"
+		  },
+		  {
+			"count": 1,
+			"id": "AC012"
+		  },
+		  {
+			"count": 1,
+			"id": "AC011"
+		  },
+		  {
+			"count": 1,
+			"id": "AC010"
+		  },
+		  {
+			"count": 1,
+			"id": "AC009"
+		  },
+		  {
+			"count": 1,
+			"id": "AC004"
+		  },
+		  {
+			"count": 1,
+			"id": "AC005"
+		  },
+		  {
+			"count": 1,
+			"id": "AC007"
+		  },
+		  {
+			"count": 1,
+			"id": "AC008"
+		  },
+		  {
+			"count": 1,
+			"id": "AC003"
+		  },
+		  {
+			"count": 1,
+			"id": "AC002"
+		  },
+		  {
+			"count": 1,
+			"id": "AC001"
+		  },
+		  {
+			"count": 1,
+			"id": "AC006"
+		  }
+		]
+	  }
+	}
+]
