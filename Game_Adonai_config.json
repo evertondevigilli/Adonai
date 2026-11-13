@@ -215,7 +215,8 @@
                     "Personagem": "Stack",
                     "Artefato": "Stack",
                     "Milagre": "Stack",
-                    "Pecado": "Stack"
+                    "Pecado": "Stack",
+					"Virtudes": "ZonaVirtudes"
                 },
                 "autoPlayFromStack": {
                     "Personagem": "CampoBatalha",
