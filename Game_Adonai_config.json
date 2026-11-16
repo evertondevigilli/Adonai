@@ -77,7 +77,7 @@
             },
             "newTurn": {
                 "drawOnStart": false,
-                "drawPerTurn": 2
+                "drawPerTurn": 0
             },
             "steps": [
                 { "id": "preparacao", "name": "Preparação" },
