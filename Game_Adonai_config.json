@@ -176,7 +176,7 @@
                                     "section": "CampoBatalha",
                                     "style": {
 										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_campo_de_batalha.png')",
-                                        "background-size": "68px",
+                                        "background-size": "72px",
                                         "background-repeat": "no-repeat",
                                         "background-position": "15px center",
                                         "width": "66%"
@@ -201,7 +201,7 @@
                                     "section": "ZonaVirtudes",
                                     "style": {
 										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_zona_de_caracteristica.png')",
-                                        "background-size": "68px",
+                                        "background-size": "72px",
                                         "background-repeat": "no-repeat",
                                         "background-position": "15px center",
                                         "width": "40%",
