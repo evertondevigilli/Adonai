@@ -213,7 +213,7 @@
                                     "section": "Essencia",
                                     "style": {
 										"background-image": "url('https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/icone_zona_de_essencia.png')",
-                                        "background-size": "contain",
+                                        "background-size": "50px",
                                         "background-repeat": "no-repeat",
                                         "background-position": "left",
                                         "width": "40%",
