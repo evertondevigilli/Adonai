@@ -1635,7 +1635,7 @@
         "name": "Ficha_Israelita",
         "type": "Personagem",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Ficha_Israelita.jpg",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Ficha_Israelita.png",
         "isHorizontal": false
       }
     },
@@ -1657,7 +1657,7 @@
         "name": "Ficha_Servo",
         "type": "Personagem",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Ficha_Servo.jpg",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Ficha_Servo.png",
         "isHorizontal": false
       }
     },
