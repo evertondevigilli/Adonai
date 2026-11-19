@@ -579,7 +579,7 @@
         "name": "Altar do Coração Contrito",
         "type": "Templo",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20004.webp",
+        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/04 - Altar do Coração Contrito.png"
         "isHorizontal": true
       }
     },
