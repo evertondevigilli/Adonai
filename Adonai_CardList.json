@@ -7,7 +7,7 @@
         "name": "Fé",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Fé.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_fe.png",
         "isHorizontal": false
       }
     },
@@ -29,7 +29,7 @@
         "name": "Dúvida",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Dúvida.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_duvida.png",
         "isHorizontal": false
       }
     },
@@ -51,7 +51,7 @@
         "name": "Esperança",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Esperança.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_esperanca.png",
         "isHorizontal": false
       }
     },
@@ -73,7 +73,7 @@
         "name": "Desespero",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Desespero.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_desespero.png",
         "isHorizontal": false
       }
     },
@@ -95,7 +95,7 @@
         "name": "Caridade",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Caridade.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_caridade.png",
         "isHorizontal": false
       }
     },
@@ -117,7 +117,7 @@
         "name": "Egoísmo",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Egoísmo.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_egoismo.png",
         "isHorizontal": false
       }
     },
@@ -139,7 +139,7 @@
         "name": "Prudência",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Prudência.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_prudencia.png",
         "isHorizontal": false
       }
     },
@@ -161,7 +161,7 @@
         "name": "Insensatez",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Insensatez.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_insensatez.png",
         "isHorizontal": false
       }
     },
@@ -183,7 +183,7 @@
         "name": "Justiça",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Justiça.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_justica.png",
         "isHorizontal": false
       }
     },
@@ -205,7 +205,7 @@
         "name": "Iniquidade",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Iniquidade.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_iniquidade.png",
         "isHorizontal": false
       }
     },
@@ -227,7 +227,7 @@
         "name": "Fortaleza",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Fortaleza.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_fortaleza.png",
         "isHorizontal": false
       }
     },
@@ -249,7 +249,7 @@
         "name": "Covardia",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Covardia.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_covardia.png",
         "isHorizontal": false
       }
     },
@@ -271,7 +271,7 @@
         "name": "Temperança",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Temperança.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/virtude_temperanca.png",
         "isHorizontal": false
       }
     },
@@ -293,7 +293,7 @@
         "name": "Descontrole",
         "type": "Virtudes",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Descontrole.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/extras/ddg/desvirtude_descontrole.png",
         "isHorizontal": false
       }
     },
@@ -315,7 +315,7 @@
         "name": "Golias, Voz do Desafio",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20001.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_001.webp",
         "isHorizontal": false
       }
     },
@@ -337,7 +337,7 @@
         "name": "Jessé, o Pai do Rei",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20002.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_002.webp",
         "isHorizontal": false
       }
     },
@@ -359,7 +359,7 @@
         "name": "Abner, Chanceler Real",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20003.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_003.webp",
         "isHorizontal": false
       }
     },
@@ -711,7 +711,7 @@
         "name": "Davi, Desafiante do Gigante",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20010.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_010.webp",
         "isHorizontal": false
       }
     },
@@ -733,7 +733,7 @@
         "name": "Golias, o Herói Filisteu",
         "type": "Personagem",
         "cost": 6,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20011.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_011.webp",
         "isHorizontal": false
       }
     },
@@ -755,7 +755,7 @@
         "name": "Davi, o pastor de ovelhas",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20012.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_012.webp",
         "isHorizontal": false
       }
     },
@@ -777,7 +777,7 @@
         "name": "Saul, o Rei amedrontado",
         "type": "Personagem",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20013.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_013.webp",
         "isHorizontal": false
       }
     },
@@ -799,7 +799,7 @@
         "name": "Samuel, Profeta em Belém",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20014.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_014.webp",
         "isHorizontal": false
       }
     },
@@ -821,7 +821,7 @@
         "name": "Jessé, Pai de Davi",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20015.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_015.webp",
         "isHorizontal": false
       }
     },
@@ -843,7 +843,7 @@
         "name": "Davi, Portador de Mantimentos",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20016.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_016.webp",
         "isHorizontal": false
       }
     },
@@ -865,7 +865,7 @@
         "name": "Davi, Harpista de Saul",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20017.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_017.webp",
         "isHorizontal": false
       }
     },
@@ -887,7 +887,7 @@
         "name": "Eliabe, o primogênito bonito",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20018.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_018.webp",
         "isHorizontal": false
       }
     },
@@ -909,7 +909,7 @@
         "name": "Abinadabe e Samá",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20019.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_019.webp",
         "isHorizontal": false
       }
     },
@@ -931,7 +931,7 @@
         "name": "Exército Israelita Amedrontado",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20020.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_020.webp",
         "isHorizontal": false
       }
     },
@@ -953,7 +953,7 @@
         "name": "Exército Filisteu Confiante",
         "type": "Personagem",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20021.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_021.webp",
         "isHorizontal": false
       }
     },
@@ -975,7 +975,7 @@
         "name": "Exército Israelita Confiante",
         "type": "Personagem",
         "cost": 5,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20022.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_022.webp",
         "isHorizontal": false
       }
     },
@@ -997,7 +997,7 @@
         "name": "Abner, Comandante de Saul",
         "type": "Personagem",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20023.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_023.webp",
         "isHorizontal": false
       }
     },
@@ -1019,7 +1019,7 @@
         "name": "Escudeiro de Golias",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20024.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_024.webp",
         "isHorizontal": false
       }
     },
@@ -1041,7 +1041,7 @@
         "name": "Servo de Saul, o Olhar Atento",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20025.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_025.webp",
         "isHorizontal": false
       }
     },
@@ -1063,7 +1063,7 @@
         "name": "Guardador dos Mantimentos",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20026.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_026.webp",
         "isHorizontal": false
       }
     },
@@ -1085,7 +1085,7 @@
         "name": "Jumentinho do Jessé",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20027.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_027.webp",
         "isHorizontal": false
       }
     },
@@ -1107,7 +1107,7 @@
         "name": "Headshot",
         "type": "Milagre",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20028.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_028.webp",
         "isHorizontal": false
       }
     },
@@ -1129,7 +1129,7 @@
         "name": "A Batalha é do Senhor",
         "type": "Milagre",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20029.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_029.webp",
         "isHorizontal": false
       }
     },
@@ -1151,7 +1151,7 @@
         "name": "Recusa da Armadura",
         "type": "Milagre",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20030.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_030.webp",
         "isHorizontal": false
       }
     },
@@ -1173,7 +1173,7 @@
         "name": "Livramento do Leão e do Urso",
         "type": "Milagre",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20031.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_031.webp",
         "isHorizontal": false
       }
     },
@@ -1195,7 +1195,7 @@
         "name": "O Senhor Vê o Coração",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20032.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_032.webp",
         "isHorizontal": false
       }
     },
@@ -1217,7 +1217,7 @@
         "name": "Ainda falta o Menor",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20033.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_033.webp",
         "isHorizontal": false
       }
     },
@@ -1239,7 +1239,7 @@
         "name": "Espírito do Senhor sobre Davi",
         "type": "Milagre",
         "cost": 7,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20034.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_034.webp",
         "isHorizontal": false
       }
     },
@@ -1261,7 +1261,7 @@
         "name": "A Recompensa do Rei",
         "type": "Milagre",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20035.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_035.webp",
         "isHorizontal": false
       }
     },
@@ -1283,7 +1283,7 @@
         "name": "Até que ele venha",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20036.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_036.webp",
         "isHorizontal": false
       }
     },
@@ -1305,7 +1305,7 @@
         "name": "Entre a Corte e o Rebanho",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20037.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_037.webp",
         "isHorizontal": false
       }
     },
@@ -1327,7 +1327,7 @@
         "name": "Cântico dos Milhares",
         "type": "Milagre",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20038.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_038.webp",
         "isHorizontal": false
       }
     },
@@ -1349,7 +1349,7 @@
         "name": "Funda e Cinco Pedras",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20039.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_039.webp",
         "isHorizontal": false
       }
     },
@@ -1371,7 +1371,7 @@
         "name": "Espada de Golias",
         "type": "Artefato",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20040.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_040.webp",
         "isHorizontal": false
       }
     },
@@ -1393,7 +1393,7 @@
         "name": "Armadura de Saul",
         "type": "Artefato",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20041.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_041.webp",
         "isHorizontal": false
       }
     },
@@ -1415,7 +1415,7 @@
         "name": "Chifre de Azeite",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20042.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_042.webp",
         "isHorizontal": false
       }
     },
@@ -1437,7 +1437,7 @@
         "name": "Harpa de Davi",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20043.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_043.webp",
         "isHorizontal": false
       }
     },
@@ -1459,7 +1459,7 @@
         "name": "Espólios do Gigante",
         "type": "Artefato",
         "cost": 5,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20044.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_044.webp",
         "isHorizontal": false
       }
     },
@@ -1481,7 +1481,7 @@
         "name": "Quarenta Dias de Desafio",
         "type": "Pecado",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20045.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_045.webp",
         "isHorizontal": false
       }
     },
@@ -1525,7 +1525,7 @@
         "name": "Arrogância do Fortes",
         "type": "Pecado",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20047.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_047.webp",
         "isHorizontal": false
       }
     },
@@ -1547,7 +1547,7 @@
         "name": "O Preço da Rejeição",
         "type": "Pecado",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20048.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_048.webp",
         "isHorizontal": false
       }
     },
@@ -1569,7 +1569,7 @@
         "name": "Falso Resplendor",
         "type": "Pecado",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/DDG%20-%20049.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_049.webp",
         "isHorizontal": false
       }
     },
@@ -1679,7 +1679,7 @@
         "name": "Davi, Rei de Todo Israel",
         "type": "Personagem",
         "cost": 5,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20010.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_010.webp",
         "isHorizontal": false
       }
     },
@@ -1701,7 +1701,7 @@
         "name": "Davi, Rei de Judá",
         "type": "Personagem",
         "cost": 5,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20011.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_011.webp",
         "isHorizontal": false
       }
     },
@@ -1723,7 +1723,7 @@
         "name": "Bate-Seba, Filha de Eliã",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20012.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_012.webp",
         "isHorizontal": false
       }
     },
@@ -1745,7 +1745,7 @@
         "name": "Urias, Guerreiro Leal",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20013.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_013.webp",
         "isHorizontal": false
       }
     },
@@ -1767,7 +1767,7 @@
         "name": "Natã, o Profeta do Rei",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20014.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_014.webp",
         "isHorizontal": false
       }
     },
@@ -1789,7 +1789,7 @@
         "name": "Joabe, o General da Vanguarda",
         "type": "Personagem",
         "cost": 5,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20015.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_015.webp",
         "isHorizontal": false
       }
     },
@@ -1811,7 +1811,7 @@
         "name": "Anciões do Pacto de Hebrom",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20016.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_016.webp",
         "isHorizontal": false
       }
     },
@@ -1833,7 +1833,7 @@
         "name": "Abigail, Voz da Prudência",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20017.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_017.webp",
         "isHorizontal": false
       }
     },
@@ -1855,7 +1855,7 @@
         "name": "Obede-Edom, Anfitrião da Arca",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20018.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_018.webp",
         "isHorizontal": false
       }
     },
@@ -1877,7 +1877,7 @@
         "name": "Uzá, Mão Impulsiva",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20019.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_019.webp",
         "isHorizontal": false
       }
     },
@@ -1899,7 +1899,7 @@
         "name": "Aiô, Diante da Arca",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20020.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_020.webp",
         "isHorizontal": false
       }
     },
@@ -1921,7 +1921,7 @@
         "name": "Mical, Olhar da Janela",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20021.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_021.webp",
         "isHorizontal": false
       }
     },
@@ -1943,7 +1943,7 @@
         "name": "Mefibosete, à Mesa do Rei",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20022.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_022.webp",
         "isHorizontal": false
       }
     },
@@ -1965,7 +1965,7 @@
         "name": "Ziba, Servo da Casa de Saul",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20023.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_023.webp",
         "isHorizontal": false
       }
     },
@@ -1987,7 +1987,7 @@
         "name": "Abner, Pacto de Hebrom",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20024.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_024.webp",
         "isHorizontal": false
       }
     },
@@ -2009,7 +2009,7 @@
         "name": "Is-Bosete, Rei Sustentado",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20025.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_025.webp",
         "isHorizontal": false
       }
     },
@@ -2031,7 +2031,7 @@
         "name": "Recabe e Baaná, os Regicidas",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20026.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_026.webp",
         "isHorizontal": false
       }
     },
@@ -2053,7 +2053,7 @@
         "name": "Asael, o Veloz como a Gazela",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20027.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_027.webp",
         "isHorizontal": false
       }
     },
@@ -2075,7 +2075,7 @@
         "name": "Paltiel, que seguiu chorando",
         "type": "Personagem",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20028.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_028.webp",
         "isHorizontal": false
       }
     },
@@ -2097,7 +2097,7 @@
         "name": "Abisai, General do Flanco",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20029.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_029.webp",
         "isHorizontal": false
       }
     },
@@ -2119,7 +2119,7 @@
         "name": "Benaia, Capitão dos Quereteus",
         "type": "Personagem",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20030.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_030.webp",
         "isHorizontal": false
       }
     },
@@ -2141,7 +2141,7 @@
         "name": "Hirão, Rei de Tiro",
         "type": "Personagem",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20031.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_031.webp",
         "isHorizontal": false
       }
     },
@@ -2163,7 +2163,7 @@
         "name": "Promessa à Casa de Davi",
         "type": "Milagre",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20032.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_032.webp",
         "isHorizontal": false
       }
     },
@@ -2185,7 +2185,7 @@
         "name": "Tú És este Homem",
         "type": "Milagre",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20033.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_033.webp",
         "isHorizontal": false
       }
     },
@@ -2207,7 +2207,7 @@
         "name": "Sussurro em Sião",
         "type": "Milagre",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20034.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_034.webp",
         "isHorizontal": false
       }
     },
@@ -2229,7 +2229,7 @@
         "name": "Consulta ao Senhor",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20035.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_035.webp",
         "isHorizontal": false
       }
     },
@@ -2251,7 +2251,7 @@
         "name": "A Ruptura de Baal-Perazim",
         "type": "Milagre",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20036.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_036.webp",
         "isHorizontal": false
       }
     },
@@ -2273,7 +2273,7 @@
         "name": "Som das Amoreiras",
         "type": "Milagre",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20037.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_037.webp",
         "isHorizontal": false
       }
     },
@@ -2295,7 +2295,7 @@
         "name": "Bondade por Amor a Jônatas",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20038.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_038.webp",
         "isHorizontal": false
       }
     },
@@ -2317,7 +2317,7 @@
         "name": "Lamento pelos Valentes",
         "type": "Milagre",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20039.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_039.webp",
         "isHorizontal": false
       }
     },
@@ -2339,7 +2339,7 @@
         "name": "Palácio de Cedro",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20040.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_040.webp",
         "isHorizontal": false
       }
     },
@@ -2361,7 +2361,7 @@
         "name": "Arca da Aliança",
         "type": "Artefato",
         "cost": 7,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20041.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_041.webp",
         "isHorizontal": false
       }
     },
@@ -2383,7 +2383,7 @@
         "name": "Éfode de Linho",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20042.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_042.webp",
         "isHorizontal": false
       }
     },
@@ -2405,7 +2405,7 @@
         "name": "Escudos de Ouro de Hadadezer",
         "type": "Artefato",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20043.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_043.webp",
         "isHorizontal": false
       }
     },
@@ -2427,7 +2427,7 @@
         "name": "Cordel da Medida",
         "type": "Artefato",
         "cost": 3,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20044.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_044.webp",
         "isHorizontal": false
       }
     },
@@ -2449,7 +2449,7 @@
         "name": "Sentença Velada",
         "type": "Pecado",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20045.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_045.webp",
         "isHorizontal": false
       }
     },
@@ -2471,7 +2471,7 @@
         "name": "Mulheres e Concubinas de Davi",
         "type": "Pecado",
         "cost": 1,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20046.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_046.webp",
         "isHorizontal": false
       }
     },
@@ -2493,7 +2493,7 @@
         "name": "Vingança no Portão de Hebrom",
         "type": "Pecado",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20047.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_047.webp",
         "isHorizontal": false
       }
     },
@@ -2515,7 +2515,7 @@
         "name": "Humilhação dos Embaixadores",
         "type": "Pecado",
         "cost": 4,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20048.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_048.webp",
         "isHorizontal": false
       }
     },
@@ -2537,7 +2537,7 @@
         "name": "Combate no tanque de Gibeão",
         "type": "Pecado",
         "cost": 2,
-        "image": "https://adonaicardgame.com.br/assets/cards/TEC%20-%20049.webp",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_049.webp",
         "isHorizontal": false
       }
     },
