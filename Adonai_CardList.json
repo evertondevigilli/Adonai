@@ -381,7 +381,7 @@
         "name": "Sem Espada e nem Lança",
         "type": "Templo",
         "cost": 1,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/Sem_Espada_nem_Lança.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_004.webp",
         "isHorizontal": true
       }
     },
@@ -403,7 +403,7 @@
         "name": "Pelo Senhor dos Exércitos",
         "type": "Templo",
         "cost": 1,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/pelo_senhor_dos_exercitos.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_005.webp",
         "isHorizontal": true
       }
     },
@@ -425,7 +425,7 @@
         "name": "O Sacrifício em Belém",
         "type": "Templo",
         "cost": 1,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/o_sacrificio_em_belem.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_006.webp",
         "isHorizontal": true
       }
     },
@@ -579,7 +579,7 @@
         "name": "Altar do Coração Contrito",
         "type": "Templo",
         "cost": 2,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/04 - Altar do Coração Contrito.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_004.webp",
         "isHorizontal": true
       }
     },
@@ -601,7 +601,7 @@
         "name": "Altar dos Seis Passos",
         "type": "Templo",
         "cost": 2,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/05%20-%20Altar%20dos%20Seis%20Passos.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_005.webp",
         "isHorizontal": true
       }
     },
@@ -623,7 +623,7 @@
         "name": "Morada da Plenitude",
         "type": "Templo",
         "cost": 2,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/06%20-%20Morada%20da%20Plenitude.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_006.webp",
         "isHorizontal": true
       }
     },
