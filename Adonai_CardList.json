@@ -447,7 +447,7 @@
         "name": "Vale de Elá, Campo do Desafio",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/vale_de_ela.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_007.webp",
         "isHorizontal": true
       }
     },
@@ -469,7 +469,7 @@
         "name": "Belém, Campos de Jessé",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/belem_campos_de_jesse.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_008.webp",
         "isHorizontal": true
       }
     },
@@ -491,7 +491,7 @@
         "name": "Socó, o Acampamento Filisteu",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/ddg/soco_o_acampamento_filisteu.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/ddg_009.webp",
         "isHorizontal": true
       }
     },
@@ -513,7 +513,7 @@
         "name": "Davi, Segundo o Coração de Deus",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/01%20-%20DAVI,%20SEGUNDO%20O%20CORAÇÃO%20DE%20DEUS.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_001.webp",
         "isHorizontal": false
       }
     },
@@ -535,7 +535,7 @@
         "name": "Obede-Edom, o Guardião da Arca",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/02%20-%20OBEDE-EDOM,%20O%20GUARDIÃO%20DA%20ARCA.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_002.webp",
         "isHorizontal": false
       }
     },
@@ -557,7 +557,7 @@
         "name": "Abigail, a Grande Conciliadora",
         "type": "Campeão",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/03%20-%20ABIGAIL,%20A%20GRANDE%20CONCILIADORA.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_003.webp",
         "isHorizontal": false
       }
     },
@@ -645,7 +645,7 @@
         "name": "Jerusalém, Cidade de Davi",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/07%20-%20Jerusalém,%20Cidade%20de%20Davi.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_007.webp",
         "isHorizontal": true
       }
     },
@@ -667,7 +667,7 @@
         "name": "Hebrom, Trono da Unção",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/08%20-%20Hebrom,%20Trono%20da%20Unção.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_008.webp",
         "isHorizontal": true
       }
     },
@@ -689,7 +689,7 @@
         "name": "Rabá, a Frente Distante",
         "type": "Território",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/evertondevigilli/Adonai/refs/heads/main/images/tec/09%20-%20Rabá,%20a%20Frente%20Distante.png",
+        "image": "https://adonaicardgame.com.br/assets/cards/tec_009.webp",
         "isHorizontal": true
       }
     },
